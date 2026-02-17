@@ -59,6 +59,12 @@
         "expirydate": "14-03-2026",
         "Allowoffline": false
     },
+        {
+        "device_id": "7f7e04c414d54b49",
+        "key": "anon123",
+        "expirydate": "01-03-2026",
+        "Allowoffline": false
+    },
     
 
     
