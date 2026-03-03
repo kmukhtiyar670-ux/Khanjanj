@@ -185,6 +185,12 @@
         "expirydate": "24-03-2028",
         "Allowoffline": false
     },
+    {
+        "device_id": "ea3a54022ca20a68",
+        "key": "ea3a54022ca20a68",
+        "expirydate": "03-04-2026",
+        "Allowoffline": false
+    },
 
     
     
