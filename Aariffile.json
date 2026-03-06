@@ -251,6 +251,12 @@
         "expirydate": "10-03-2026",
         "Allowoffline": false
     },
+    {
+        "device_id": "c064cf6296d00193",
+        "key": "c064cf6296d00193",
+        "expirydate": "06-04-2026",
+        "Allowoffline": false
+    },
 
     
     
