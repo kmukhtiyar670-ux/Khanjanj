@@ -401,6 +401,18 @@
         "expirydate": "12-04-2026",
         "Allowoffline": false
     },
+    {
+        "device_id": "34ec182ded1a2aad",
+        "key": "34ec182ded1a2aad",
+        "expirydate": "18-04-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "395bcd081c637fa1",
+        "key": "395bcd081c637fa1",
+        "expirydate": "18-04-2026",
+        "Allowoffline": false
+    },
     
 
     
