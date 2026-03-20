@@ -449,7 +449,12 @@
         "expirydate": "05-04-2026",
         "Allowoffline": false
     },
-    
+    {
+        "device_id": "db90a93e923313b9",
+        "key": "db90a93e923313b9",
+        "expirydate": "05-04-2026",
+        "Allowoffline": false
+    },
     
     
 
