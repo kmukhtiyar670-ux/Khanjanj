@@ -1,114 +1,114 @@
 [
 {
-"device_id": "0de8bbefdbab94d6",
+"id": "0de8bbefdbab94d6",
 "username": "gurpal",
 "password": "123",
-"expirydate": "31-12-2026",
-"Allowoffline": false
+"expiresAt": "2026-12-31",
+"allowOffline": false
 },
 {
-"device_id": "cf8e0f8deef187af",
+"id": "cf8e0f8deef187af",
 "username": "gurpal",
 "password": "12345",
-"expirydate": "31-12-2026",
-"Allowoffline": false
+"expiresAt": "2026-12-31",
+"allowOffline": false
 },
 {
-"device_id": "1107323999796018",
+"id": "1107323999796018",
 "username": "Aarif",
 "password": "12345",
-"expirydate": "13-04-2028",
-"Allowoffline": false
+"expiresAt": "2028-04-13",
+"allowOffline": false
 },
 {
-"device_id": "cddcef637e83624f",
+"id": "cddcef637e83624f",
 "username": "aarif",
 "password": "12345",
-"expirydate": "15-07-2026",
-"Allowoffline": false
+"expiresAt": "2026-07-15",
+"allowOffline": false
 },
 {
-"device_id": "79ea4b3391a63c2b",
+"id": "79ea4b3391a63c2b",
 "username": "Aarif",
 "password": "12345",
-"expirydate": "03-07-2026",
-"Allowoffline": false
+"expiresAt": "2026-07-03",
+"allowOffline": false
 },
 {
-"device_id": "76be4abcf1bc9e83",
+"id": "76be4abcf1bc9e83",
 "username": "Aarif",
 "password": "12345",
-"expirydate": "07-08-2026",
-"Allowoffline": false
+"expiresAt": "2026-08-07",
+"allowOffline": false
 },
 {
-"device_id": "688dab5d0d6c87de",
+"id": "688dab5d0d6c87de",
 "username": "Aarif",
 "password": "12345",
-"expirydate": "08-08-2026",
-"Allowoffline": false
+"expiresAt": "2026-08-08",
+"allowOffline": false
 },
 {
-"device_id": "14b71674e8d8b8df",
+"id": "14b71674e8d8b8df",
 "username": "Aarif",
 "password": "12345",
-"expirydate": "09-09-2026",
-"Allowoffline": false
+"expiresAt": "2026-09-09",
+"allowOffline": false
 },
 {
-"device_id": "9bf15047e952446d",
+"id": "9bf15047e952446d",
 "username": "Aarif",
 "password": "12345",
-"expirydate": "11-07-2026",
-"Allowoffline": false
+"expiresAt": "2026-07-11",
+"allowOffline": false
 },
 {
-"device_id": "159e3777f9af3d31",
+"id": "159e3777f9af3d31",
 "username": "Aarif",
 "password": "12345",
-"expirydate": "07-07-2026",
-"Allowoffline": false
+"expiresAt": "2026-07-07",
+"allowOffline": false
 },
 {
-"device_id": "85234830b57c800d",
+"id": "85234830b57c800d",
 "username": "Aarif",
 "password": "12345",
-"expirydate": "16-07-2026",
-"Allowoffline": false
+"expiresAt": "2026-07-16",
+"allowOffline": false
 },
 {
-"device_id": "16306ed5b3e29839",
+"id": "16306ed5b3e29839",
 "username": "Aarif",
 "password": "12345",
-"expirydate": "21-07-2026",
-"Allowoffline": false
+"expiresAt": "2026-07-21",
+"allowOffline": false
 },
 {
-"device_id": "e23cc7f39f9c668c",
+"id": "e23cc7f39f9c668c",
 "username": "Aarif",
 "password": "12345",
-"expirydate": "21-07-2026",
-"Allowoffline": false
+"expiresAt": "2026-07-21",
+"allowOffline": false
 },
 {
-"device_id": "d23131f6a42c76b0",
+"id": "d23131f6a42c76b0",
 "username": "Aarif",
 "password": "12345",
-"expirydate": "23-07-2026",
-"Allowoffline": false
+"expiresAt": "2026-07-23",
+"allowOffline": false
 },
 {
-"device_id": "ca31cd90f249a694",
+"id": "ca31cd90f249a694",
 "username": "Aarif",
 "password": "12345",
-"expirydate": "23-09-2026",
-"Allowoffline": false
+"expiresAt": "2026-09-23",
+"allowOffline": false
 },
 {
-"device_id": "1b1472b08622881e",
+"id": "1b1472b08622881e",
 "username": "Aarif",
 "password": "12345",
-"expirydate": "30-06-2028",
-"Allowoffline": false
+"expiresAt": "2028-06-30",
+"allowOffline": false
 }
 ]
