@@ -1,163 +1,79 @@
 [
-{
-"device_id": "0de8bbefdbab94d6",
-"username": "gurpal",
-"password": "123",
-"expirydate": "31-12-2026",
-"Allowoffline": false
-},
-{
-"device_id": "cf8e0f8deef187af",
-"username": "gurpal",
-"password": "12345",
-"expirydate": "31-12-2026",
-"Allowoffline": false
-},
-{
-"device_id": "1107323999796018",
-"username": "Aarif",
-"password": "12345",
-"expirydate": "13-04-2028",
-"Allowoffline": false
-},
-{
-"device_id": "cddcef637e83624f",
-"username": "aarif",
-"password": "12345",
-"expirydate": "15-07-2026",
-"Allowoffline": false
-},
-{
-"device_id": "79ea4b3391a63c2b",
-"username": "Aarif",
-"password": "12345",
-"expirydate": "03-07-2026",
-"Allowoffline": false
-},
-{
-"device_id": "76be4abcf1bc9e83",
-"username": "Aarif",
-"password": "12345",
-"expirydate": "07-08-2026",
-"Allowoffline": false
-},
-{
-"device_id": "688dab5d0d6c87de",
-"username": "Aarif",
-"password": "12345",
-"expirydate": "08-08-2026",
-"Allowoffline": false
-},
-{
-"device_id": "14b71674e8d8b8df",
-"username": "Aarif",
-"password": "12345",
-"expirydate": "09-09-2026",
-"Allowoffline": false
-},
-{
-"device_id": "9bf15047e952446d",
-"username": "Aarif",
-"password": "12345",
-"expirydate": "11-07-2026",
-"Allowoffline": false
-},
-{
-"device_id": "31c80b7b048f95a3",
-"username": "Aarif",
-"password": "12345",
-"expirydate": "11-06-2028",
-"Allowoffline": false
-},
-{
-"device_id": "1b1472b08622881e",
-"username": "Aarif",
-"password": "12345",
-"expirydate": "30-06-2028",
-"Allowoffline": false
-},
-{
-"device_id": "ca31cd90f249a694",
-"username": "Aarif",
-"password": "12345",
-"expirydate": "23-09-2026",
-"Allowoffline": false
-},
-{
-"device_id": "f5e565f2a4e24aa1",
-"username": "Aarif",
-"password": "12345",
-"expirydate": "23-09-2026",
-"Allowoffline": false
-},
-{
-"device_id": "16306ed5b3e29839",
-"username": "Aarif",
-"password": "12345",
-"expirydate": "21-07-2026",
-"Allowoffline": false
-},
-{
-"device_id": "e23cc7f39f9c668c",
-"username": "Aarif",
-"password": "12345",
-"expirydate": "21-07-2026",
-"Allowoffline": false
-}
-]
-    
-    
-    
-
-    
-
-
-    
-
-
-    
-    
-    
-
-
-
-    
-    
-
-    
-  
-  
-  
-  
-  
-  
-  
-  
-  
-    
-    
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-
-
-
-    
-
-
-
-
-
+    {
+        "device_id": "14b71674e8d8b8df",
+        "username": "Aarif",
+        "password": "12345",
+        "expirydate": "31-12-2027",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "device456",
+        "username": "user2",
+        "password": "pass456",
+        "expirydate": "15-06-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "",
+        "username": "",
+        "password": "",
+        "expirydate": "1-9-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "",
+        "username": "",
+        "password": "",
+        "expirydate": "1-11-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "",
+        "username": "",
+        "password": "",
+        "expirydate": "1-11-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "",
+        "username": "",
+        "password": "",
+        "expirydate": "1-11-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "",
+        "username": "",
+        "password": "",
+        "expirydate": "1-11-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "",
+        "username": "",
+        "password": "",
+        "expirydate": "1-11-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "",
+        "username": "",
+        "password": "",
+        "expirydate": "1-11-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "",
+        "username": "",
+        "password": "",
+        "expirydate": "1-11-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "",
+        "username": "",
+        "password": "",
+        "expirydate": "1-11-2026",
+        "Allowoffline": false
+    }
 ]
