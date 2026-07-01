@@ -1,114 +1,38 @@
+
 [
 {
-"id": "0de8bbefdbab94d6",
+"device_id": "0de8bbefdbab94d6",
 "username": "gurpal",
 "password": "123",
 "expiresAt": "2026-12-31",
 "allowOffline": false
 },
 {
-"id": "cf8e0f8deef187af",
+"device_id": "cf8e0f8deef187af",
 "username": "gurpal",
 "password": "12345",
 "expiresAt": "2026-12-31",
 "allowOffline": false
 },
 {
-"id": "6cfa444d603901b4",
+"device_id": "6cfa444d603901b4",
 "username": "vivek",
 "password": "12345",
 "expiresAt": "2026-04-07",
 "allowOffline": false
 },
 {
-"id": "1aac9e6889729f76",
+"device_id": "1aac9e6889729f76",
 "username": "hukum",
 "password": "12345",
 "expiresAt": "2026-04-10",
 "allowOffline": false
 },
 {
-"id": "dcfe713fab9c518e",
+"device_id": "dcfe713fab9c518e",
 "username": "niraj",
 "password": "12345",
 "expiresAt": "2026-04-10",
-"allowOffline": false
-},
-{
-"id": "04deaf4f995a4909",
-"username": "vinod",
-"password": "12345",
-"expiresAt": "2026-04-13",
-"allowOffline": false
-},
-{
-"id": "1107323999796018",
-"username": "Aarif",
-"password": "12345",
-"expiresAt": "2028-04-13",
-"allowOffline": false
-},
-{
-"id": "936a8e4bb32950e9",
-"username": "aarif",
-"password": "12345",
-"expiresAt": "2026-05-23",
-"allowOffline": false
-},
-{
-"id": "141fdcdd07d9ef5d",
-"username": "aarif",
-"password": "12345",
-"expiresAt": "2026-04-26",
-"allowOffline": false
-},
-{
-"id": "0827ab7f2a5556e6",
-"username": "aarif",
-"password": "12345",
-"expiresAt": "2026-06-30",
-"allowOffline": false
-},
-{
-"id": "f673413670d4c19c",
-"username": "Aarif",
-"password": "12345",
-"expiresAt": "2026-06-30",
-"allowOffline": false
-},
-{
-"id": "31c80b7b048f95a3",
-"username": "Aarif",
-"password": "12345",
-"expiresAt": "2028-06-11",
-"allowOffline": false
-},
-{
-"id": "76be4abcf1bc9e83",
-"username": "Aarif",
-"password": "12345",
-"expiresAt": "2026-08-07",
-"allowOffline": false
-},
-{
-"id": "688dab5d0d6c87de",
-"username": "Aarif",
-"password": "12345",
-"expiresAt": "2026-08-08",
-"allowOffline": false
-},
-{
-"id": "14b71674e8d8b8df",
-"username": "Aarif",
-"password": "12345",
-"expiresAt": "2026-09-09",
-"allowOffline": false
-},
-{
-"id": "1b1472b08622881e",
-"username": "Aarif",
-"password": "12345",
-"expiresAt": "2028-06-30",
 "allowOffline": false
 }
 ]
